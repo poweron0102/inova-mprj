@@ -1,0 +1,83 @@
+Table contrato {
+  id_contrato integer [primary key, note: 'Código único do contrato.']
+  valor "Numeric(15,2)" [note: 'Valor financeiro estipulado no contrato']
+  data date [note: 'Data de início da vigência.']
+  objeto varchar(255) [note: 'Descrição do escopo da contratação.']
+  id_entidade integer [note: 'Código único da unidade administrativa.']
+  id_fornecedor integer [note: 'Código único do fornecedor adjudicatário.']
+}
+
+Table empenho {
+  id_empenho varchar(255) [primary key, note: 'Código único da nota de empenho.']
+  ano integer [note: 'Ano do registro contábil da reserva.']
+  data_empenho date [note: 'Data do registro contábil da reserva.']
+  cpfcnpjcredor varchar(20) [note: 'Documento de identificação do credor.']
+  credor varchar(255) [note: 'Nome ou Razão Social do favorecido.']
+  valor "Numeric(15,2)" [note: 'Montante orçamentário empenhado.']
+  id_entidade integer [note: 'Código único da unidade administrativa.']
+  id_contrato integer [note: 'Código único do contrato.']
+}
+
+Table liquidacao_nota_fiscal {
+  id_liq_empnf integer [primary key, note: 'Código único do registro de liquidação.']
+  chave_danfe varchar(50) [note: 'Chave NF-e.']
+  data_emissao date [note: 'Data de emissão do documento fiscal.']
+  valor "Numeric(15,2)" [note: 'Valor atestado e liquidado para pagamento.']
+  id_empenho varchar(255) [note: 'Referência ao empenho que lastreia a NF-e.']
+}
+
+Table nfe {
+  id bigint [primary key, note: 'Identificador único sequencial interno.']
+  chave_nfe varchar(50) [unique, note: 'Chave NF-e.']
+  numero_nfe varchar(50) [note: 'Numeração única do documento fiscal.']
+  data_hora_emissao timestamp [note: 'Data e Hora da emissão da nota fiscal.']
+  cnpj_emitente varchar(20) [note: 'Número do CNPJ da entidade emitente.']
+  valor_total_nfe "Numeric(15,2)" [note: 'Valor total bruto da operação.']
+}
+
+Table pagamento {
+  id_pagamento varchar(255) [primary key, note: 'Código único da ordem de pagamento.']
+  id_empenho varchar(255) [note: 'Código do empenho que está sendo quitado.']
+  datapagamentoemp date [note: 'Data de efetivação do desembolso bancário.']
+  valor "Numeric(15,2)" [note: 'Valor financeiro transferido ao credor.']
+}
+
+Table nfe_pagamento {
+  id varchar(255) [primary key, note: 'Identificador único do registro de pagamento de uma nfe.']
+  chave_nfe varchar(50) [note: 'Chave de acesso que vincula o pagamento à NF-e.']
+  tipo_pagamento varchar(50) [note: 'Descrição do meio utilizado.']
+  valor_pagamento "Numeric(15,2)" [note: 'Valor alocado para esta forma de pagamento específica.']
+}
+
+Table fornecedor {
+  id_fornecedor integer [primary key, note: 'Código único do fornecedor no sistema.']
+  nome varchar(255) [note: 'Nome fantasia ou razão social do contratado.']
+  documento varchar(20) [note: 'Número do CNPJ do fornecedor.']
+}
+
+Table entidade {
+  id_entidade integer [primary key, note: 'Código único da unidade administrativa.']
+  nome varchar(255) [note: 'Nome oficial do órgão.']
+  estado varchar(50) [note: 'Sigla da Unidade da Federação.']
+  municipio varchar(100) [note: 'Nome do município sede.']
+  cnpj varchar(20) [note: 'Número do CNPJ da entidade.']
+}
+
+
+// Entidade se liga a Contrato e Empenho
+Ref: entidade.id_entidade < contrato.id_entidade
+Ref: entidade.id_entidade < empenho.id_entidade
+
+// Fornecedor se liga a Contrato
+Ref: fornecedor.id_fornecedor < contrato.id_fornecedor
+
+// Contrato gera Empenho
+Ref: contrato.id_contrato < empenho.id_contrato
+
+// Empenho se liga a Liquidação e Pagamento
+Ref: empenho.id_empenho < liquidacao_nota_fiscal.id_empenho
+Ref: empenho.id_empenho < pagamento.id_empenho
+
+// NF-e se liga a Pagamento de NF-e e Liquidação (via chave)
+Ref: nfe.chave_nfe < nfe_pagamento.chave_nfe
+Ref: nfe.chave_nfe < liquidacao_nota_fiscal.chave_danfe
