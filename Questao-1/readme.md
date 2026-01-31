@@ -34,3 +34,31 @@ A liquidação é o momento em que o governo confere se o produto foi entregue o
 ### Diagrama de Relacionamento
 ![q1png.png](q1png.png)
 
+
+# Estratégia de Modelagem e Integridade
+
+A modelagem foi desenhada para garantir a integridade dos dados através do uso rigoroso de Foreign Keys, seguindo uma estrutura relacional padrão.
+
+---
+
+### 1. Estrutura Hierárquica (`1:N`)
+Adotou-se relacionamentos de **"um para muitos"**.
+* **A lógica:** Um `Contrato` pode ter vários `Empenhos`; um `Empenho` pode ter várias `Liquidações` e `Pagamentos`.
+* **O benefício:** Isso evita a duplicação de dados do contrato (redundância) a cada novo pagamento realizado.
+
+### 2. Ponto de Integração (Tabela `empenho`)
+A tabela `empenho` funciona como o hub do sistema.
+* Tanto as tabelas de `pagamento` quanto as de `liquidacao_nota_fiscal` apontam para o campo `id_empenho`.
+* Isso permite agrupar facilmente todos os eventos financeiros de uma compra específica em uma única **query**.
+
+### 3. Rastreabilidade (Tabelas de `NFe`)
+Para vincular o documento fiscal ao sistema interno:
+* A tabela `liquidacao_nota_fiscal` utiliza a `chave_danfe` para se conectar à tabela `nfe`.
+* **Separação de responsabilidades:** Isso separa os dados fiscais dos dados de controle interno.
+
+### 4. Normalização (Tabelas `entidade` e `fornecedor`)
+Os dados cadastrais foram separados em tabelas próprias (conhecidas como *Lookups*).
+* As tabelas transacionais (`contrato`, `empenho`) armazenam apenas os IDs (`id_entidade`, `id_fornecedor`).
+* **Otimização:** Isso reduz o espaço de armazenamento e facilita atualizações cadastrais.
+
+
