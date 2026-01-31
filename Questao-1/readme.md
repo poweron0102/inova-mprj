@@ -32,5 +32,5 @@ A liquidação é o momento em que o governo confere se o produto foi entregue o
 ---
 
 ### Diagrama de Relacionamento
-![q1png.png](Questao-1/q1png.png)
+![q1png.png](q1png.png)
 
