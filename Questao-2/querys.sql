@@ -25,11 +25,9 @@ GROUP BY n.chave_nfe, n.valor_total_nfe
 HAVING SUM(np.valor_pagamento) > n.valor_total_nfe;
 
 
-
--- ------------------------
 /*
   Pagamentos acima do valor empenhado
-  255 encontrados
+  225 encontrados
 */
 SELECT
     e.id_empenho,
@@ -56,8 +54,6 @@ JOIN empenho e ON c.id_contrato = e.id_contrato
 JOIN pagamento p ON e.id_empenho = p.id_empenho
 GROUP BY c.id_contrato, c.valor
 HAVING SUM(p.valor) > c.valor;
--- ------------------------
-
 
 
 /*
