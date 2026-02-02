@@ -1,0 +1,501 @@
+"id_contrato","valor","data","objeto","id_entidade","id_fornecedor"
+1001,20980.58,2024-01-02,Reforma de Creche,1,100
+1002,26021.35,2024-01-09,Consultoria Financeira,1,20
+1003,25384.45,2024-01-06,Manutencao de Ar Condicionado,1,10
+1004,15924.19,2024-01-09,Merenda Escolar - Lote 1,1,80
+1005,30930.82,2024-01-09,Medicamentos Basicos,1,100
+1006,27066.09,2024-01-04,Pavimentacao Rua X,1,40
+1007,1263.24,2024-01-07,Servico de Vigilancia 24h,1,120
+1008,3822.05,2024-01-11,Pavimentacao Rua X,1,40
+1009,29096.35,2024-01-07,Consultoria Financeira,1,40
+1010,12856.77,2024-01-07,Medicamentos Basicos,1,90
+1011,47544.14,2024-01-10,Medicamentos Basicos,1,90
+1012,6656.92,2024-01-07,Manutencao de Ar Condicionado,1,10
+1013,49985.61,2024-01-02,Licencas de Software,1,80
+1014,37386.57,2024-01-02,Locacao de Veiculos,1,110
+1015,44907.64,2024-01-06,Consultoria Financeira,1,110
+1016,36396.77,2024-01-04,Locacao de Veiculos,1,70
+1017,7822.08,2024-01-09,Reforma de Creche,1,70
+1018,18609.40,2024-01-09,Merenda Escolar - Lote 1,1,30
+1019,17427.94,2024-01-02,Medicamentos Basicos,1,50
+1020,36221.49,2024-01-03,Locacao de Veiculos,1,90
+1021,45646.60,2024-01-05,Consultoria Financeira,1,50
+1022,40003.95,2024-01-08,Manutencao de Ar Condicionado,1,120
+1023,39531.59,2024-01-11,Merenda Escolar - Lote 1,1,60
+1024,14712.36,2024-01-07,Servico de Vigilancia 24h,1,70
+1025,7534.27,2024-01-05,Fornecimento de Papel A4,1,90
+1026,48874.15,2024-01-06,Manutencao de Ar Condicionado,1,30
+1027,36855.47,2024-01-11,Fornecimento de Papel A4,1,60
+1028,4654.45,2024-01-08,Consultoria Financeira,1,50
+1029,24088.16,2024-01-11,Fornecimento de Papel A4,1,90
+1030,28772.25,2024-01-09,Merenda Escolar - Lote 1,1,110
+1031,37930.77,2024-01-04,Manutencao de Ar Condicionado,1,30
+1032,16572.46,2024-01-08,Servico de Vigilancia 24h,1,100
+1033,20150.35,2024-01-10,Servico de Vigilancia 24h,1,110
+1034,18909.55,2024-01-11,Manutencao de Ar Condicionado,1,120
+1035,39006.98,2024-01-05,Manutencao de Ar Condicionado,1,100
+1036,36123.84,2024-01-08,Consultoria Financeira,1,50
+1037,11351.84,2024-01-04,Merenda Escolar - Lote 1,1,120
+1038,46418.67,2024-01-11,Pavimentacao Rua X,1,110
+1039,29252.93,2024-01-09,Consultoria Financeira,1,120
+1040,29846.33,2024-01-03,Medicamentos Basicos,1,60
+1041,34977.83,2024-01-10,Servico de Vigilancia 24h,1,120
+1042,21181.40,2024-01-05,Manutencao de Ar Condicionado,1,20
+1043,30594.70,2024-01-05,Merenda Escolar - Lote 1,1,120
+1044,30496.17,2024-01-02,Consultoria Financeira,1,70
+1045,34263.12,2024-01-05,Servico de Vigilancia 24h,1,80
+1046,49472.69,2024-01-10,Pavimentacao Rua X,1,60
+1047,26099.42,2024-01-01,Servico de Vigilancia 24h,1,70
+1048,19624.81,2024-01-02,Servico de Vigilancia 24h,1,100
+1049,9302.64,2024-01-10,Reforma de Creche,1,40
+1050,13730.33,2024-01-05,Merenda Escolar - Lote 1,1,110
+1051,41514.06,2024-01-08,Fornecimento de Papel A4,1,70
+1052,10188.34,2024-01-06,Pavimentacao Rua X,1,80
+1053,26278.68,2024-01-06,Fornecimento de Papel A4,1,100
+1054,27769.81,2024-01-11,Consultoria Financeira,1,80
+1055,14467.56,2024-01-04,Servico de Vigilancia 24h,1,50
+1056,37817.24,2024-01-10,Reforma de Creche,1,90
+1057,2584.67,2024-01-09,Pavimentacao Rua X,1,50
+1058,39635.71,2024-01-03,Fornecimento de Papel A4,1,60
+1059,20486.71,2024-01-05,Merenda Escolar - Lote 1,1,40
+1060,27120.00,2024-01-06,Locacao de Veiculos,1,100
+1061,23991.72,2024-01-05,Consultoria Financeira,1,100
+1062,30381.14,2024-01-02,Merenda Escolar - Lote 1,1,10
+1063,45817.80,2024-01-01,Licencas de Software,1,20
+1064,40750.47,2024-01-03,Consultoria Financeira,1,100
+1065,37412.81,2024-01-10,Fornecimento de Papel A4,1,20
+1066,33670.88,2024-01-04,Fornecimento de Papel A4,1,80
+1067,33954.03,2024-01-05,Consultoria Financeira,1,60
+1068,4411.44,2024-01-05,Fornecimento de Papel A4,1,90
+1069,26290.75,2024-01-10,Pavimentacao Rua X,1,60
+1070,21600.89,2024-01-07,Fornecimento de Papel A4,1,100
+1071,10022.65,2024-01-07,Medicamentos Basicos,1,110
+1072,25953.60,2024-01-06,Merenda Escolar - Lote 1,1,70
+1073,34768.34,2024-01-05,Medicamentos Basicos,1,40
+1074,12510.57,2024-01-01,Servico de Vigilancia 24h,1,80
+1075,31863.90,2024-01-01,Consultoria Financeira,1,80
+1076,5384.66,2024-01-11,Servico de Vigilancia 24h,1,80
+1077,23828.76,2024-01-03,Medicamentos Basicos,1,80
+1078,14239.61,2024-01-10,Medicamentos Basicos,1,70
+1079,22023.86,2024-01-04,Licencas de Software,1,100
+1080,30955.13,2024-01-02,Reforma de Creche,1,80
+1081,26390.18,2024-01-06,Locacao de Veiculos,1,50
+1082,38803.31,2024-01-08,Locacao de Veiculos,1,60
+1083,15166.08,2024-01-10,Merenda Escolar - Lote 1,1,70
+1084,34290.92,2024-01-11,Manutencao de Ar Condicionado,1,100
+1085,10328.50,2024-01-07,Locacao de Veiculos,1,110
+1086,29378.66,2024-01-10,Medicamentos Basicos,1,80
+1087,24351.85,2024-01-11,Servico de Vigilancia 24h,1,10
+1088,15289.40,2024-01-10,Consultoria Financeira,1,80
+1089,2759.51,2024-01-05,Pavimentacao Rua X,1,40
+1090,46556.65,2024-01-01,Merenda Escolar - Lote 1,1,40
+1091,24402.66,2024-01-05,Medicamentos Basicos,1,90
+1092,33223.33,2024-01-01,Locacao de Veiculos,1,100
+1093,25764.12,2024-01-11,Merenda Escolar - Lote 1,1,50
+1094,40236.37,2024-01-06,Fornecimento de Papel A4,1,50
+1095,25167.01,2024-01-07,Consultoria Financeira,1,110
+1096,38707.85,2024-01-07,Fornecimento de Papel A4,1,30
+1097,19097.05,2024-01-08,Medicamentos Basicos,1,90
+1098,42193.07,2024-01-11,Merenda Escolar - Lote 1,1,30
+1099,47084.40,2024-01-02,Manutencao de Ar Condicionado,1,10
+1100,10369.56,2024-01-07,Manutencao de Ar Condicionado,1,90
+1101,28910.00,2024-01-02,Reforma de Creche,1,30
+1102,8772.89,2024-01-05,Medicamentos Basicos,1,90
+1103,7800.29,2024-01-05,Licencas de Software,1,100
+1104,22827.97,2024-01-06,Manutencao de Ar Condicionado,1,70
+1105,29566.53,2024-01-05,Manutencao de Ar Condicionado,1,10
+1106,45066.91,2024-01-01,Consultoria Financeira,1,50
+1107,1516.92,2024-01-10,Manutencao de Ar Condicionado,1,80
+1108,12084.67,2024-01-03,Merenda Escolar - Lote 1,1,10
+1109,37385.87,2024-01-09,Pavimentacao Rua X,1,70
+1110,1979.49,2024-01-01,Consultoria Financeira,1,20
+1111,11891.61,2024-01-03,Servico de Vigilancia 24h,1,10
+1112,21058.66,2024-01-06,Licencas de Software,1,20
+1113,40955.94,2024-01-10,Merenda Escolar - Lote 1,1,30
+1114,48094.34,2024-01-06,Locacao de Veiculos,1,10
+1115,46965.30,2024-01-01,Servico de Vigilancia 24h,1,70
+1116,22803.77,2024-01-03,Reforma de Creche,1,70
+1117,21784.30,2024-01-01,Reforma de Creche,1,100
+1118,37149.60,2024-01-08,Consultoria Financeira,1,50
+1119,24449.71,2024-01-04,Manutencao de Ar Condicionado,1,50
+1120,32923.74,2024-01-08,Merenda Escolar - Lote 1,1,60
+1121,18073.05,2024-01-05,Manutencao de Ar Condicionado,1,80
+1122,43226.99,2024-01-09,Medicamentos Basicos,1,10
+1123,15550.65,2024-01-05,Servico de Vigilancia 24h,1,120
+1124,19375.37,2024-01-08,Licencas de Software,1,120
+1125,39172.67,2024-01-07,Medicamentos Basicos,1,30
+1126,4620.87,2024-01-04,Servico de Vigilancia 24h,1,120
+1127,33792.94,2024-01-04,Locacao de Veiculos,1,20
+1128,24149.71,2024-01-08,Consultoria Financeira,1,110
+1129,2392.95,2024-01-02,Servico de Vigilancia 24h,1,90
+1130,25843.98,2024-01-06,Reforma de Creche,1,60
+1131,32408.83,2024-01-03,Locacao de Veiculos,1,70
+1132,24364.31,2024-01-09,Fornecimento de Papel A4,1,70
+1133,44954.89,2024-01-02,Fornecimento de Papel A4,1,100
+1134,43912.52,2024-01-03,Reforma de Creche,1,90
+1135,3405.19,2024-01-01,Locacao de Veiculos,1,40
+1136,45275.46,2024-01-06,Consultoria Financeira,1,70
+1137,16280.68,2024-01-06,Pavimentacao Rua X,1,80
+1138,39469.55,2024-01-01,Reforma de Creche,1,120
+1139,49798.17,2024-01-11,Consultoria Financeira,1,10
+1140,1527.04,2024-01-11,Pavimentacao Rua X,1,20
+1141,33167.31,2024-01-08,Servico de Vigilancia 24h,1,70
+1142,13808.37,2024-01-02,Pavimentacao Rua X,1,30
+1143,23335.29,2024-01-09,Reforma de Creche,1,110
+1144,48143.12,2024-01-05,Manutencao de Ar Condicionado,1,40
+1145,20203.66,2024-01-11,Servico de Vigilancia 24h,1,80
+1146,8662.18,2024-01-04,Locacao de Veiculos,1,20
+1147,48827.01,2024-01-07,Locacao de Veiculos,1,70
+1148,37448.38,2024-01-01,Servico de Vigilancia 24h,1,10
+1149,7040.31,2024-01-11,Locacao de Veiculos,1,70
+1150,36763.38,2024-01-03,Pavimentacao Rua X,1,50
+1151,8460.85,2024-01-03,Manutencao de Ar Condicionado,1,10
+1152,36758.51,2024-01-09,Merenda Escolar - Lote 1,1,50
+1153,20100.28,2024-01-05,Medicamentos Basicos,1,80
+1154,36813.29,2024-01-01,Consultoria Financeira,1,70
+1155,7384.57,2024-01-02,Pavimentacao Rua X,1,40
+1156,19993.48,2024-01-06,Licencas de Software,1,30
+1157,49051.89,2024-01-07,Servico de Vigilancia 24h,1,70
+1158,11742.04,2024-01-05,Medicamentos Basicos,1,90
+1159,7402.78,2024-01-02,Pavimentacao Rua X,1,60
+1160,48482.60,2024-01-11,Servico de Vigilancia 24h,1,20
+1161,41879.17,2024-01-07,Manutencao de Ar Condicionado,1,120
+1162,16431.93,2024-01-09,Servico de Vigilancia 24h,1,40
+1163,44557.91,2024-01-11,Medicamentos Basicos,1,120
+1164,17737.22,2024-01-02,Licencas de Software,1,30
+1165,17309.89,2024-01-10,Reforma de Creche,1,40
+1166,24801.41,2024-01-02,Locacao de Veiculos,1,70
+1167,7059.21,2024-01-07,Fornecimento de Papel A4,1,20
+1168,8928.78,2024-01-11,Consultoria Financeira,1,100
+1169,6960.05,2024-01-04,Merenda Escolar - Lote 1,1,90
+1170,18596.25,2024-01-08,Consultoria Financeira,1,70
+1171,31621.19,2024-01-09,Fornecimento de Papel A4,1,30
+1172,4355.69,2024-01-03,Fornecimento de Papel A4,1,50
+1173,43181.95,2024-01-11,Medicamentos Basicos,1,10
+1174,38390.66,2024-01-03,Manutencao de Ar Condicionado,1,10
+1175,7356.19,2024-01-06,Merenda Escolar - Lote 1,1,80
+1176,38383.03,2024-01-09,Consultoria Financeira,1,20
+1177,17296.25,2024-01-05,Manutencao de Ar Condicionado,1,70
+1178,29523.22,2024-01-08,Consultoria Financeira,1,110
+1179,6085.45,2024-01-08,Servico de Vigilancia 24h,1,120
+1180,47024.15,2024-01-09,Merenda Escolar - Lote 1,1,100
+1181,43915.40,2024-01-07,Servico de Vigilancia 24h,1,120
+1182,46378.10,2024-01-10,Manutencao de Ar Condicionado,1,80
+1183,43069.99,2024-01-10,Reforma de Creche,1,60
+1184,7899.40,2024-01-09,Merenda Escolar - Lote 1,1,20
+1185,43816.49,2024-01-06,Pavimentacao Rua X,1,100
+1186,9697.15,2024-01-02,Pavimentacao Rua X,1,10
+1187,38202.47,2024-01-06,Licencas de Software,1,120
+1188,46565.04,2024-01-05,Merenda Escolar - Lote 1,1,10
+1189,11378.19,2024-01-09,Merenda Escolar - Lote 1,1,20
+1190,5731.64,2024-01-04,Consultoria Financeira,1,60
+1191,12324.10,2024-01-03,Licencas de Software,1,10
+1192,42796.97,2024-01-03,Servico de Vigilancia 24h,1,120
+1193,34572.41,2024-01-06,Licencas de Software,1,110
+1194,11008.32,2024-01-10,Licencas de Software,1,60
+1195,6714.63,2024-01-06,Medicamentos Basicos,1,60
+1196,4185.99,2024-01-09,Merenda Escolar - Lote 1,1,30
+1197,2261.26,2024-01-07,Reforma de Creche,1,40
+1198,17852.86,2024-01-09,Merenda Escolar - Lote 1,1,60
+1199,13870.51,2024-01-11,Reforma de Creche,1,120
+1200,31096.50,2024-01-04,Licencas de Software,1,80
+1201,46306.76,2024-01-01,Medicamentos Basicos,1,30
+1202,2952.60,2024-01-06,Fornecimento de Papel A4,1,50
+1203,23631.38,2024-01-06,Licencas de Software,1,60
+1204,6191.40,2024-01-06,Manutencao de Ar Condicionado,1,90
+1205,1402.15,2024-01-08,Locacao de Veiculos,1,100
+1206,4628.08,2024-01-05,Merenda Escolar - Lote 1,1,10
+1207,6451.56,2024-01-04,Reforma de Creche,1,20
+1208,47244.19,2024-01-04,Manutencao de Ar Condicionado,1,70
+1209,9751.96,2024-01-10,Merenda Escolar - Lote 1,1,100
+1210,48416.25,2024-01-04,Manutencao de Ar Condicionado,1,120
+1211,42296.80,2024-01-08,Consultoria Financeira,1,110
+1212,11362.07,2024-01-11,Manutencao de Ar Condicionado,1,40
+1213,45211.11,2024-01-01,Locacao de Veiculos,1,20
+1214,24678.40,2024-01-11,Fornecimento de Papel A4,1,110
+1215,46407.38,2024-01-03,Licencas de Software,1,10
+1216,2495.05,2024-01-04,Consultoria Financeira,1,80
+1217,46303.81,2024-01-06,Locacao de Veiculos,1,110
+1218,6056.41,2024-01-07,Medicamentos Basicos,1,70
+1219,16101.87,2024-01-04,Reforma de Creche,1,30
+1220,34502.45,2024-01-10,Consultoria Financeira,1,50
+1221,36801.86,2024-01-11,Locacao de Veiculos,1,50
+1222,35068.63,2024-01-10,Locacao de Veiculos,1,110
+1223,3588.30,2024-01-04,Reforma de Creche,1,120
+1224,35067.48,2024-01-04,Licencas de Software,1,110
+1225,33341.00,2024-01-03,Merenda Escolar - Lote 1,1,10
+1226,9923.46,2024-01-07,Locacao de Veiculos,1,70
+1227,17112.92,2024-01-01,Medicamentos Basicos,1,70
+1228,43103.13,2024-01-07,Reforma de Creche,1,30
+1229,1837.95,2024-01-06,Reforma de Creche,1,60
+1230,18570.65,2024-01-06,Consultoria Financeira,1,50
+1231,35055.99,2024-01-01,Pavimentacao Rua X,1,100
+1232,25569.50,2024-01-10,Locacao de Veiculos,1,110
+1233,19130.97,2024-01-07,Servico de Vigilancia 24h,1,30
+1234,36969.41,2024-01-09,Fornecimento de Papel A4,1,90
+1235,40748.10,2024-01-05,Manutencao de Ar Condicionado,1,70
+1236,11733.23,2024-01-06,Licencas de Software,1,30
+1237,13266.38,2024-01-03,Fornecimento de Papel A4,1,10
+1238,31210.06,2024-01-11,Pavimentacao Rua X,1,80
+1239,41920.97,2024-01-04,Locacao de Veiculos,1,30
+1240,49220.70,2024-01-03,Servico de Vigilancia 24h,1,60
+1241,15112.60,2024-01-09,Reforma de Creche,1,110
+1242,12527.15,2024-01-05,Medicamentos Basicos,1,90
+1243,34913.61,2024-01-10,Pavimentacao Rua X,1,30
+1244,42940.72,2024-01-03,Merenda Escolar - Lote 1,1,40
+1245,3176.40,2024-01-06,Servico de Vigilancia 24h,1,120
+1246,29284.03,2024-01-05,Merenda Escolar - Lote 1,1,110
+1247,21052.05,2024-01-06,Locacao de Veiculos,1,100
+1248,42702.77,2024-01-11,Locacao de Veiculos,1,40
+1249,4586.42,2024-01-07,Pavimentacao Rua X,1,40
+1250,18405.09,2024-01-05,Locacao de Veiculos,1,120
+1251,35328.12,2024-01-02,Pavimentacao Rua X,1,70
+1252,34509.25,2024-01-08,Fornecimento de Papel A4,1,30
+1253,29893.96,2024-01-03,Medicamentos Basicos,1,10
+1254,10748.24,2024-01-02,Pavimentacao Rua X,1,10
+1255,6864.70,2024-01-01,Consultoria Financeira,1,70
+1256,29250.03,2024-01-03,Licencas de Software,1,70
+1257,30623.71,2024-01-09,Locacao de Veiculos,1,120
+1258,4188.74,2024-01-05,Locacao de Veiculos,1,40
+1259,45515.16,2024-01-02,Licencas de Software,1,80
+1260,38561.69,2024-01-11,Reforma de Creche,1,50
+1261,19261.46,2024-01-02,Servico de Vigilancia 24h,1,70
+1262,36368.37,2024-01-01,Servico de Vigilancia 24h,1,40
+1263,32325.60,2024-01-01,Medicamentos Basicos,1,110
+1264,42526.25,2024-01-02,Medicamentos Basicos,1,40
+1265,13437.33,2024-01-07,Manutencao de Ar Condicionado,1,10
+1266,5833.66,2024-01-09,Licencas de Software,1,100
+1267,26432.34,2024-01-07,Locacao de Veiculos,1,10
+1268,20105.97,2024-01-11,Merenda Escolar - Lote 1,1,70
+1269,4579.91,2024-01-09,Fornecimento de Papel A4,1,70
+1270,35241.31,2024-01-06,Merenda Escolar - Lote 1,1,10
+1271,32037.77,2024-01-03,Licencas de Software,1,70
+1272,19311.42,2024-01-11,Manutencao de Ar Condicionado,1,80
+1273,32682.09,2024-01-02,Fornecimento de Papel A4,1,70
+1274,42794.46,2024-01-10,Fornecimento de Papel A4,1,40
+1275,23294.88,2024-01-06,Licencas de Software,1,100
+1276,23446.41,2024-01-04,Fornecimento de Papel A4,1,80
+1277,46520.70,2024-01-05,Reforma de Creche,1,10
+1278,32509.19,2024-01-08,Locacao de Veiculos,1,20
+1279,10749.83,2024-01-08,Servico de Vigilancia 24h,1,20
+1280,39575.30,2024-01-06,Consultoria Financeira,1,40
+1281,35625.94,2024-01-11,Locacao de Veiculos,1,120
+1282,48335.10,2024-01-02,Consultoria Financeira,1,90
+1283,33507.95,2024-01-07,Consultoria Financeira,1,120
+1284,29887.40,2024-01-03,Servico de Vigilancia 24h,1,110
+1285,23531.40,2024-01-07,Consultoria Financeira,1,70
+1286,49633.66,2024-01-04,Pavimentacao Rua X,1,10
+1287,7256.23,2024-01-04,Pavimentacao Rua X,1,120
+1288,29731.09,2024-01-03,Consultoria Financeira,1,120
+1289,29914.51,2024-01-10,Medicamentos Basicos,1,20
+1290,22373.88,2024-01-09,Reforma de Creche,1,30
+1291,32554.52,2024-01-03,Servico de Vigilancia 24h,1,10
+1292,32904.72,2024-01-03,Locacao de Veiculos,1,100
+1293,40982.11,2024-01-02,Servico de Vigilancia 24h,1,10
+1294,19700.15,2024-01-05,Manutencao de Ar Condicionado,1,50
+1295,44009.43,2024-01-03,Medicamentos Basicos,1,60
+1296,35424.66,2024-01-03,Consultoria Financeira,1,10
+1297,16998.06,2024-01-01,Reforma de Creche,1,100
+1298,30899.48,2024-01-07,Medicamentos Basicos,1,60
+1299,24629.72,2024-01-02,Manutencao de Ar Condicionado,1,120
+1300,26004.83,2024-01-04,Manutencao de Ar Condicionado,1,90
+1301,19554.15,2024-01-03,Reforma de Creche,1,120
+1302,44816.41,2024-01-03,Reforma de Creche,1,40
+1303,41676.42,2024-01-09,Merenda Escolar - Lote 1,1,110
+1304,24577.63,2024-01-10,Reforma de Creche,1,70
+1305,7128.08,2024-01-08,Locacao de Veiculos,1,120
+1306,21997.26,2024-01-10,Fornecimento de Papel A4,1,100
+1307,44637.97,2024-01-09,Manutencao de Ar Condicionado,1,80
+1308,46763.37,2024-01-01,Locacao de Veiculos,1,50
+1309,15497.35,2024-01-02,Reforma de Creche,1,70
+1310,4606.14,2024-01-04,Manutencao de Ar Condicionado,1,90
+1311,15883.08,2024-01-09,Medicamentos Basicos,1,90
+1312,35166.58,2024-01-04,Pavimentacao Rua X,1,40
+1313,13265.19,2024-01-09,Reforma de Creche,1,80
+1314,17710.44,2024-01-08,Servico de Vigilancia 24h,1,60
+1315,1124.98,2024-01-10,Pavimentacao Rua X,1,20
+1316,44424.99,2024-01-04,Merenda Escolar - Lote 1,1,50
+1317,43381.49,2024-01-02,Servico de Vigilancia 24h,1,60
+1318,48151.13,2024-01-10,Merenda Escolar - Lote 1,1,100
+1319,30252.15,2024-01-05,Merenda Escolar - Lote 1,1,120
+1320,3838.53,2024-01-07,Reforma de Creche,1,80
+1321,12598.98,2024-01-04,Servico de Vigilancia 24h,1,40
+1322,25135.27,2024-01-05,Pavimentacao Rua X,1,60
+1323,2023.71,2024-01-09,Merenda Escolar - Lote 1,1,90
+1324,43353.65,2024-01-04,Pavimentacao Rua X,1,90
+1325,45320.83,2024-01-05,Servico de Vigilancia 24h,1,120
+1326,4937.87,2024-01-06,Consultoria Financeira,1,30
+1327,34801.36,2024-01-10,Reforma de Creche,1,60
+1328,19706.95,2024-01-05,Pavimentacao Rua X,1,80
+1329,9191.48,2024-01-11,Locacao de Veiculos,1,40
+1330,29742.53,2024-01-10,Licencas de Software,1,50
+1331,21358.43,2024-01-04,Consultoria Financeira,1,10
+1332,11919.76,2024-01-04,Reforma de Creche,1,120
+1333,49543.99,2024-01-03,Consultoria Financeira,1,110
+1334,28655.81,2024-01-09,Medicamentos Basicos,1,30
+1335,19131.77,2024-01-04,Locacao de Veiculos,1,10
+1336,27672.62,2024-01-01,Manutencao de Ar Condicionado,1,100
+1337,41416.06,2024-01-07,Locacao de Veiculos,1,50
+1338,33264.62,2024-01-06,Merenda Escolar - Lote 1,1,80
+1339,5334.34,2024-01-09,Locacao de Veiculos,1,120
+1340,46587.39,2024-01-05,Manutencao de Ar Condicionado,1,10
+1341,44520.68,2024-01-07,Licencas de Software,1,30
+1342,9154.63,2024-01-02,Pavimentacao Rua X,1,100
+1343,23998.96,2024-01-10,Fornecimento de Papel A4,1,40
+1344,22960.14,2024-01-06,Merenda Escolar - Lote 1,1,10
+1345,29631.12,2024-01-09,Fornecimento de Papel A4,1,40
+1346,28774.84,2024-01-04,Manutencao de Ar Condicionado,1,120
+1347,25365.40,2024-01-01,Manutencao de Ar Condicionado,1,30
+1348,23427.23,2024-01-04,Fornecimento de Papel A4,1,10
+1349,24324.72,2024-01-07,Medicamentos Basicos,1,10
+1350,10317.13,2024-01-01,Servico de Vigilancia 24h,1,100
+1351,2548.67,2024-01-05,Locacao de Veiculos,1,70
+1352,35166.30,2024-01-06,Licencas de Software,1,60
+1353,11205.79,2024-01-02,Reforma de Creche,1,60
+1354,37932.42,2024-01-08,Servico de Vigilancia 24h,1,60
+1355,41206.22,2024-01-06,Pavimentacao Rua X,1,70
+1356,6978.25,2024-01-04,Manutencao de Ar Condicionado,1,100
+1357,13278.62,2024-01-06,Fornecimento de Papel A4,1,10
+1358,1979.22,2024-01-11,Reforma de Creche,1,120
+1359,43086.89,2024-01-09,Licencas de Software,1,90
+1360,29458.73,2024-01-07,Manutencao de Ar Condicionado,1,80
+1361,16119.48,2024-01-08,Merenda Escolar - Lote 1,1,60
+1362,6557.90,2024-01-08,Locacao de Veiculos,1,100
+1363,11256.17,2024-01-10,Medicamentos Basicos,1,80
+1364,11222.39,2024-01-05,Pavimentacao Rua X,1,110
+1365,48712.57,2024-01-09,Pavimentacao Rua X,1,10
+1366,24321.83,2024-01-06,Consultoria Financeira,1,10
+1367,1024.70,2024-01-11,Servico de Vigilancia 24h,1,110
+1368,16289.74,2024-01-05,Pavimentacao Rua X,1,120
+1369,43099.65,2024-01-09,Merenda Escolar - Lote 1,1,30
+1370,5207.67,2024-01-11,Consultoria Financeira,1,50
+1371,14843.61,2024-01-06,Locacao de Veiculos,1,20
+1372,43869.31,2024-01-09,Licencas de Software,1,10
+1373,35534.78,2024-01-10,Consultoria Financeira,1,20
+1374,47210.21,2024-01-09,Medicamentos Basicos,1,30
+1375,33896.73,2024-01-05,Pavimentacao Rua X,1,100
+1376,26979.74,2024-01-04,Manutencao de Ar Condicionado,1,40
+1377,32686.27,2024-01-11,Medicamentos Basicos,1,50
+1378,42937.63,2024-01-01,Reforma de Creche,1,110
+1379,33233.48,2024-01-11,Licencas de Software,1,80
+1380,4703.00,2024-01-01,Reforma de Creche,1,40
+1381,39204.96,2024-01-03,Servico de Vigilancia 24h,1,10
+1382,42217.97,2024-01-10,Manutencao de Ar Condicionado,1,110
+1383,8895.30,2024-01-03,Pavimentacao Rua X,1,100
+1384,17493.89,2024-01-02,Locacao de Veiculos,1,60
+1385,27423.64,2024-01-08,Locacao de Veiculos,1,100
+1386,10784.48,2024-01-08,Medicamentos Basicos,1,20
+1387,39398.23,2024-01-04,Manutencao de Ar Condicionado,1,70
+1388,10697.12,2024-01-10,Servico de Vigilancia 24h,1,100
+1389,2998.63,2024-01-09,Locacao de Veiculos,1,70
+1390,13714.04,2024-01-05,Servico de Vigilancia 24h,1,90
+1391,43287.82,2024-01-10,Manutencao de Ar Condicionado,1,120
+1392,10996.29,2024-01-08,Locacao de Veiculos,1,10
+1393,7556.76,2024-01-03,Manutencao de Ar Condicionado,1,110
+1394,7295.00,2024-01-05,Merenda Escolar - Lote 1,1,120
+1395,13515.28,2024-01-05,Merenda Escolar - Lote 1,1,100
+1396,36364.40,2024-01-02,Medicamentos Basicos,1,120
+1397,26488.55,2024-01-09,Manutencao de Ar Condicionado,1,50
+1398,22737.79,2024-01-10,Consultoria Financeira,1,70
+1399,18522.37,2024-01-10,Merenda Escolar - Lote 1,1,40
+1400,28265.04,2024-01-11,Servico de Vigilancia 24h,1,10
+1401,42523.58,2024-01-03,Manutencao de Ar Condicionado,1,120
+1402,48071.25,2024-01-03,Fornecimento de Papel A4,1,40
+1403,28408.13,2024-01-02,Manutencao de Ar Condicionado,1,120
+1404,34966.86,2024-01-08,Fornecimento de Papel A4,1,30
+1405,10022.69,2024-01-06,Reforma de Creche,1,40
+1406,18418.55,2024-01-06,Locacao de Veiculos,1,100
+1407,16903.03,2024-01-09,Reforma de Creche,1,90
+1408,48783.31,2024-01-04,Licencas de Software,1,60
+1409,7603.74,2024-01-07,Consultoria Financeira,1,80
+1410,6618.47,2024-01-01,Reforma de Creche,1,90
+1411,30548.52,2024-01-08,Pavimentacao Rua X,1,30
+1412,31338.68,2024-01-02,Licencas de Software,1,100
+1413,48896.17,2024-01-02,Fornecimento de Papel A4,1,120
+1414,18957.35,2024-01-03,Merenda Escolar - Lote 1,1,70
+1415,44756.71,2024-01-04,Medicamentos Basicos,1,40
+1416,3540.93,2024-01-02,Manutencao de Ar Condicionado,1,40
+1417,4274.48,2024-01-04,Fornecimento de Papel A4,1,70
+1418,34329.27,2024-01-04,Locacao de Veiculos,1,40
+1419,46350.93,2024-01-03,Medicamentos Basicos,1,120
+1420,35813.06,2024-01-07,Consultoria Financeira,1,110
+1421,8183.79,2024-01-02,Servico de Vigilancia 24h,1,30
+1422,43772.13,2024-01-02,Reforma de Creche,1,80
+1423,27999.41,2024-01-05,Manutencao de Ar Condicionado,1,70
+1424,7737.12,2024-01-05,Servico de Vigilancia 24h,1,110
+1425,34430.46,2024-01-03,Manutencao de Ar Condicionado,1,10
+1426,49232.11,2024-01-06,Reforma de Creche,1,80
+1427,38281.28,2024-01-10,Manutencao de Ar Condicionado,1,80
+1428,34314.19,2024-01-02,Medicamentos Basicos,1,90
+1429,41229.51,2024-01-04,Fornecimento de Papel A4,1,20
+1430,45603.04,2024-01-03,Merenda Escolar - Lote 1,1,20
+1431,30105.05,2024-01-02,Fornecimento de Papel A4,1,30
+1432,27225.09,2024-01-04,Servico de Vigilancia 24h,1,110
+1433,15707.09,2024-01-04,Manutencao de Ar Condicionado,1,10
+1434,26291.82,2024-01-10,Locacao de Veiculos,1,110
+1435,6657.12,2024-01-03,Medicamentos Basicos,1,30
+1436,36354.20,2024-01-05,Medicamentos Basicos,1,120
+1437,26341.87,2024-01-10,Pavimentacao Rua X,1,110
+1438,7163.43,2024-01-04,Fornecimento de Papel A4,1,100
+1439,28062.43,2024-01-10,Reforma de Creche,1,10
+1440,37938.35,2024-01-01,Servico de Vigilancia 24h,1,100
+1441,45353.13,2024-01-03,Reforma de Creche,1,20
+1442,44385.11,2024-01-09,Locacao de Veiculos,1,100
+1443,4993.13,2024-01-06,Fornecimento de Papel A4,1,50
+1444,43561.80,2024-01-07,Reforma de Creche,1,120
+1445,32756.47,2024-01-02,Manutencao de Ar Condicionado,1,90
+1446,9283.84,2024-01-06,Medicamentos Basicos,1,20
+1447,20165.81,2024-01-01,Reforma de Creche,1,60
+1448,44033.17,2024-01-03,Licencas de Software,1,50
+1449,32643.77,2024-01-10,Merenda Escolar - Lote 1,1,50
+1450,3531.01,2024-01-11,Servico de Vigilancia 24h,1,50
+1451,38848.03,2024-01-02,Reforma de Creche,1,30
+1452,17644.96,2024-01-11,Merenda Escolar - Lote 1,1,90
+1453,31223.17,2024-01-05,Merenda Escolar - Lote 1,1,70
+1454,14001.34,2024-01-07,Locacao de Veiculos,1,70
+1455,28075.29,2024-01-03,Pavimentacao Rua X,1,90
+1456,27262.74,2024-01-04,Licencas de Software,1,60
+1457,2576.18,2024-01-09,Servico de Vigilancia 24h,1,30
+1458,11103.50,2024-01-05,Pavimentacao Rua X,1,110
+1459,33853.96,2024-01-11,Fornecimento de Papel A4,1,80
+1460,27623.54,2024-01-03,Locacao de Veiculos,1,20
+1461,29987.10,2024-01-05,Medicamentos Basicos,1,30
+1462,35668.67,2024-01-04,Locacao de Veiculos,1,120
+1463,37699.00,2024-01-07,Servico de Vigilancia 24h,1,40
+1464,33480.87,2024-01-01,Pavimentacao Rua X,1,80
+1465,36589.26,2024-01-03,Consultoria Financeira,1,90
+1466,28943.20,2024-01-11,Fornecimento de Papel A4,1,10
+1467,31915.63,2024-01-04,Licencas de Software,1,10
+1468,27956.91,2024-01-11,Reforma de Creche,1,80
+1469,24388.91,2024-01-02,Licencas de Software,1,80
+1470,11465.83,2024-01-02,Locacao de Veiculos,1,80
+1471,13290.47,2024-01-08,Manutencao de Ar Condicionado,1,50
+1472,26721.13,2024-01-01,Fornecimento de Papel A4,1,100
+1473,6026.90,2024-01-02,Licencas de Software,1,90
+1474,4616.45,2024-01-03,Pavimentacao Rua X,1,40
+1475,37368.07,2024-01-09,Manutencao de Ar Condicionado,1,60
+1476,39133.23,2024-01-05,Servico de Vigilancia 24h,1,10
+1477,45524.57,2024-01-03,Servico de Vigilancia 24h,1,50
+1478,39935.73,2024-01-05,Manutencao de Ar Condicionado,1,100
+1479,42222.20,2024-01-05,Merenda Escolar - Lote 1,1,90
+1480,33066.64,2024-01-07,Merenda Escolar - Lote 1,1,30
+1481,5998.60,2024-01-09,Merenda Escolar - Lote 1,1,110
+1482,17089.78,2024-01-02,Licencas de Software,1,70
+1483,13400.54,2024-01-07,Fornecimento de Papel A4,1,20
+1484,24317.94,2024-01-03,Servico de Vigilancia 24h,1,110
+1485,12167.17,2024-01-03,Manutencao de Ar Condicionado,1,100
+1486,1387.74,2024-01-08,Reforma de Creche,1,10
+1487,48848.10,2024-01-05,Consultoria Financeira,1,90
+1488,48327.34,2024-01-07,Fornecimento de Papel A4,1,100
+1489,20161.94,2024-01-08,Medicamentos Basicos,1,40
+1490,16639.79,2024-01-07,Fornecimento de Papel A4,1,20
+1491,25340.64,2024-01-03,Servico de Vigilancia 24h,1,120
+1492,49394.11,2024-01-01,Servico de Vigilancia 24h,1,30
+1493,38379.95,2024-01-07,Consultoria Financeira,1,20
+1494,36699.24,2024-01-10,Medicamentos Basicos,1,40
+1495,8818.86,2024-01-01,Reforma de Creche,1,80
+1496,24023.50,2024-01-07,Manutencao de Ar Condicionado,1,20
+1497,19812.64,2024-01-07,Manutencao de Ar Condicionado,1,10
+1498,15188.58,2024-01-03,Fornecimento de Papel A4,1,40
+1499,39185.84,2024-01-03,Merenda Escolar - Lote 1,1,90
+1500,7046.77,2024-01-10,Consultoria Financeira,1,70
