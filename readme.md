@@ -38,7 +38,7 @@ Foi desenvolvido um modelo relacional robusto para mapear o fluxo da despesa pú
 * **Normalização:** Entidades e Fornecedores foram separados em tabelas de *lookup* para evitar redundância.
 * **Integridade:** Uso estrito de chaves estrangeiras (FK) para impedir "pagamentos órfãos" ou registros sem lastro contratual.
 
-🔗 **[Clique aqui para ver a documentação completa da Modelagem e o Diagrama ERD](./Questao-1/README.md)**
+🔗 **[Clique aqui para ver a documentação completa da Modelagem e o Diagrama ERD](./Questao-1/readme.md)**
 
 ---
 
@@ -58,7 +58,7 @@ Através de consultas SQL exploratórias, foram auditadas as regras de negócio 
 
 A análise sugere possíveis falhas no registro de aditivos contratuais ou execução de despesa não autorizada.
 
-🔗 **[Clique aqui para ver as queries SQL e a análise detalhada](./Questao-2/README.md)**
+🔗 **[Clique aqui para ver as queries SQL e a análise detalhada](./Questao-2/readme.md)**
 
 ---
 
@@ -73,6 +73,6 @@ Foi desenvolvido um painel gerencial no **Power BI** para tangibilizar o impacto
 
 ![Preview do Dashboard](./Questao-3/pg1.png)
 
-🔗 **[Clique aqui para acessar os arquivos do Dashboard e galeria de imagens](./Questao-3/README.md)**
+🔗 **[Clique aqui para acessar os arquivos do Dashboard e galeria de imagens](./Questao-3/readme.md)**
 
 ---
