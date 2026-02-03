@@ -32,7 +32,7 @@ A liquidação é o momento em que o governo confere se o produto foi entregue o
 ---
 
 ### Diagrama de Relacionamento
-![q1png.png](q1png.png)
+![Diagrama de Relacionamento](q1png.png)
 
 
 # Estratégia de Modelagem e Integridade
